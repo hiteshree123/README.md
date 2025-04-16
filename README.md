@@ -5,7 +5,7 @@ I'm a Front-End Developer with 6+ years of experience building responsive, user-
 ## 🛠️ Tech Stack
 - 💻 Frontend: ReactJS, JavaScript (ES6+), HTML5, CSS3, SASS, TailwindCSS
 - 🧩 CMS: WordPress (Custom Fields, CPT UI), HubSpot (Modules & Templates)
-- 🔧 Backend: PHP, Laravel
+- 🔧 Backend: PHP, Laravel, Node.js
 - 🧪 Testing: Jest, Cypress
 - 📦 Version Control: Git, GitHub
 - 🔄 Agile | 🎯 Project Coordination
